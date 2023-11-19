@@ -2,5 +2,8 @@
 int main()
 {
 for(int i=0;i<25;i++)
-printf("Hello CodeWorld");
+  {
+printf("Hello CodeWorld\n");
+  }
+  printf("Thankyou!");
 }
