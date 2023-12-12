@@ -12,7 +12,7 @@ int main()
     int n, i;
     scanf("%d", &n);
     head = NULL;
-    
+    printf("Enter the inputs");
     for (i = 0; i < n; i++)
     {
         newnode = (struct node *)malloc(sizeof(struct node));
